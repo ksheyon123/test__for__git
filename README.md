@@ -29,6 +29,12 @@ and the repository exists.
 
 - CASE 2 : Github 계정이 아니라 Mac의 Public 키를 등록한 경우
 
-**!성공**
+**성공! 그리고, SSH-ADD 를 통해서 SSH-AGENT에 해당 키를 등록을 해주어야한다.**
 
 다만, 여전히 SSH에 Public Key를 등록하지 않으면 Commit을 보낼 수가 없다.
+
+- CASE 3 : 한 PC 에서 여러 계정에 Commit
+
+이 방식은 결국 CASE 1, 2 과정으로 해결이 된다. A PC에서 각 계정 별로 사용할 Public키를 생성하고 각 계정의 SSH 탭에 등록하면 된다.
+
+- CASE 4 : 한 계정에 여러 PC에서 Commit
