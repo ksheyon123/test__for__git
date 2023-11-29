@@ -30,3 +30,5 @@ and the repository exists.
 - CASE 2 : Github 계정이 아니라 Mac의 Public 키를 등록한 경우
 
 **!성공**
+
+다만, 여전히 SSH에 Public Key를 등록하지 않으면 Commit을 보낼 수가 없다.
