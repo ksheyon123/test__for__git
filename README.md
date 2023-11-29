@@ -39,6 +39,12 @@ and the repository exists.
 
 - CASE 4 : 한 계정에 여러 PC에서 Commit
 
+확인 결과 불가능한 것 같다.
+
+- Exception :
+
+A PC에서 계정 A' & B' 계정 양쪽으로 Commit을 보낼 수 있었던 이유는?
+
 ---
 
 Reference : [Github-SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
