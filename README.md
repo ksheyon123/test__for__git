@@ -26,3 +26,7 @@ and the repository exists.
 이후, SSH 키를 B계정 (shkang124@coinplug.com)에 추가하면 커밋이 성공합니다.
 
 > 의문점 1: A PC에서 A 및 B 계정 모두 SSH를 등록하지 않으면 Commit을 쏠 수 없었다. 그렇다면 WEMIX.FI에는 B계정에서 어떻게 Commit을 쏠 수 있을까? (WEMIX.FI 프로젝트에 B 계정이 Collaborator 로 등록되어 있고 Home의 .gitconfig 계정은 shkang@coninplug.com)
+
+- CASE 2 : Github 계정이 아니라 Mac의 Public 키를 등록한 경우
+
+**!성공**
