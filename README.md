@@ -38,3 +38,7 @@ and the repository exists.
 이 방식은 결국 CASE 1, 2 과정으로 해결이 된다. A PC에서 각 계정 별로 사용할 Public키를 생성하고 각 계정의 SSH 탭에 등록하면 된다.
 
 - CASE 4 : 한 계정에 여러 PC에서 Commit
+
+---
+
+Reference : [Github-SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
